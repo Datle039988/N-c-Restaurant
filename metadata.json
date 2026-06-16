@@ -1,0 +1,6 @@
+{
+  "name": "NƯỚC Restaurant",
+  "description": "Premium luxury fine dining Vietnamese heritage experience in Thảo Điền, TP.HCM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
