@@ -165,7 +165,7 @@ app.post("/api/booking", (req, res) => {
     });
 
     // Forward the reservation data to Google Sheets (via user's Google Apps Script Web App)
-    const appsScriptUrl = "https://script.google.com/macros/s/AKfycbzT_7_quoWnpH4wkpcm9RB5hWkkgP85cLkmgyAYtAuMrFCaR-Q_5jqPNeTw1mOYh6fG/exec";
+    const appsScriptUrl = "https://script.google.com/macros/s/AKfycbwH9yRZsMSBSyOEy1pwzx3ugIHOIDYxYT06PdnF1quIGu6f1Hq7Skc5_vxVuh64-nY1/exec";
     fetch(appsScriptUrl, {
       method: "POST",
       headers: { "Content-Type": "application/json" },

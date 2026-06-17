@@ -72,7 +72,7 @@ export default function Hero({ language, scrollToSection }: HeroProps) {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5, duration: 1 }}
-          className="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl tracking-tight leading-tight mb-6 font-medium text-gradient bg-gradient-to-r from-[#FAF9F6] via-[#FAF9F6] to-[#FAF9F6]/80 text-[#FAF9F6]"
+          className="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl tracking-tight leading-tight mb-6 font-medium text-white drop-shadow-[0_4px_12px_rgba(0,0,0,0.7)]"
         >
           {language === "VI" ? "Hồn Việt Khơi Nguồn Tinh Hoa" : "Taste the Soul of Vietnam"}
         </motion.h2>

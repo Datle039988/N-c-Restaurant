@@ -3,7 +3,7 @@ import { Trees, Warehouse, Compass, CheckCircle2, ChevronRight } from "lucide-re
 import { FLOOR_SPACES } from "../data/restaurantData";
 import { motion } from "motion/react";
 // @ts-ignore
-import regeneratedImage from "../assets/images/regenerated_image_1781619723810.png";
+import regeneratedImage from "../assets/images/regenerated_image_1781689958674.png";
 
 interface AboutSpacesProps {
   language: "VI" | "EN";
