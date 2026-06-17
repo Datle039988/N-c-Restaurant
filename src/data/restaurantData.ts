@@ -63,17 +63,17 @@ import regeneratedImageMenu65 from "../assets/images/regenerated_image_178162616
 // @ts-ignore
 import regeneratedImageMenu66 from "../assets/images/regenerated_image_1781626166992.png";
 // @ts-ignore
-import regeneratedImageMenu67 from "../assets/images/regenerated_image_1781626165154.png";
+import regeneratedImageMenu67 from "../assets/images/regenerated_image_1781626166992.png";
 // @ts-ignore
-import regeneratedImageMenu68 from "../assets/images/regenerated_image_1781626163408.png";
+import regeneratedImageMenu68 from "../assets/images/regenerated_image_1781626168571.png";
 // @ts-ignore
-import regeneratedImageMenu69 from "../assets/images/regenerated_image_1781626161569.png";
+import regeneratedImageMenu69 from "../assets/images/regenerated_image_1781626170296.png";
 // @ts-ignore
-import regeneratedImageMenu70 from "../assets/images/regenerated_image_1781626159538.png";
+import regeneratedImageMenu70 from "../assets/images/regenerated_image_1781626171936.png";
 // @ts-ignore
-import regeneratedImageMenu71 from "../assets/images/regenerated_image_1781626156036.png";
+import regeneratedImageMenu71 from "../assets/images/regenerated_image_1781626173651.png";
 // @ts-ignore
-import regeneratedImageMenu72 from "../assets/images/regenerated_image_1781626157854.png";
+import regeneratedImageMenu72 from "../assets/images/regenerated_image_1781626175303.png";
 // @ts-ignore
 import regeneratedImageMenu73 from "../assets/images/regenerated_image_1781626154091.png";
 // @ts-ignore
